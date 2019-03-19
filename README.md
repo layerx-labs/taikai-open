@@ -3,7 +3,7 @@
 ## There are several ways for you to reach us if you find a bug 🐞
 
 ### Alternative 1: Github 👨💻
-You can reach us, by creating issues on our Github Repository specific for it through https://github.com/taikai/taikai-support
+You can reach us, by creating issues on our Github Repository specific for it through https://github.com/taikai/open-taikai
 
 ### Alternative 2: Pixels Camp Slack Channel 🗣
 If you’re reporting a bug while participating on the Pixels Camp event, you can reach us through the Pixels Camp Slack, by posting your issues on #taikaisupport channel
